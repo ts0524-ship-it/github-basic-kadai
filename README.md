@@ -1,1 +1,0 @@
-# github_basic_kadai
